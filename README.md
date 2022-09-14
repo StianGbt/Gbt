@@ -8,4 +8,5 @@
     $ pkg install cmatrix
     $ pkg install git
     $ git clone https://github.com/StianGbt/Gbt
-    $ bash Gbt.sh
+    $ cd Gbt
+    $ bash gabut.sh
