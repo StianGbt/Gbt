@@ -7,3 +7,5 @@
     $ pkg install cmatrix
     $ pkg install cmatrix
     $ pkg install git
+    $ git clone https://github.com/StianGbt/Gbt
+    $ bash Gbt.sh
